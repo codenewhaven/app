@@ -61,8 +61,8 @@ So, we have three static pages we want to make. Let's break into teams.
 
 Responsibilities:
 
-- Links to internal pages
-- Description of app 
+- Insert links to internal pages (city.html, contact.html)
+- Write some text describing the app
 
 ### Team 2: city resources (city.html)
 
