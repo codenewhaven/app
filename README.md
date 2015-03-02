@@ -54,3 +54,30 @@ they are going to be a list of links. You know how to do this.
 ## Plan of attack
 
 We want to complete the static pages before we complete the dynamic pages. This is because static pages are easier to code and will give us a good starting point.
+
+So, we have three static pages we want to make. Let's break into teams.
+
+### Team 1: home page and template (index.html)
+
+Responsibilities:
+
+- Links to internal pages
+- Description of app 
+
+### Team 2: city resources (city.html)
+
+Responsibilities:
+
+- Collect data on city resources (i.e., find links to include)
+- Insert list of links to city resources
+
+### Team 3: contact info (contact.html)
+
+Responsibilities:
+
+- Collect emails to include
+- Insert links to email. Use `mailto:` links to open email programs
+
+## Working on the code
+
+This repository contains the three files you need to get started.
