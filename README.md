@@ -57,7 +57,7 @@ We want to complete the static pages before we complete the dynamic pages. This 
 
 So, we have three static pages we want to make. Let's break into teams.
 
-### Team 1: home page and template (index.html)
+### Team 1: home page (index.html)
 
 Responsibilities:
 
