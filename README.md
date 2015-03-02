@@ -83,4 +83,53 @@ Responsibilities:
 This repository contains the three files you need to get started. Each team
 should only work on one file, as described above.
 
+You edit these HTML files just like we did in the fall. Reminder:
 
+### Step 1: Clone repository
+
+1. Open terminal (`Cmd + Space`, type `Terminal` into spotlight)
+2. `cd ~/Desktop` (or your personal folder)
+3. `git clone https://github.com/codenewhaven/app`
+4. `cd app`
+
+Note: You can also do all git steps with the github mac app, which should be downloaded,
+and relatively easy to use. I do not have the instructions offhand.
+
+### Step 2: Edit files and view changes
+
+Now you downloaded the files (in the folder `app` on your desktop), you can edit them in your text editor, just like we did in the fall. When you want to
+see them in action, go to your browser, and `cmd + O` to open the files, just
+like we did in the fall. 
+
+### Step 3: Commit changes
+
+After you change a file and are ready to share with the class, you need to 
+commit your changes, and then push them to the repository. Remember, you can
+do this with the github app, or the command line. Here are the command line
+instructions:
+
+1. Open terminal (`Cmd + Space`, type `Terminal` into spotlight)
+2. `cd ~/Desktop` (or your personal folder)
+4. `cd app` (should already be here from cloning it)
+5. `git status` to see changes since last time
+6. `git add .` to add any new files
+7. `git commit -am "my commit message"` to commit
+8. `git push` to push files to github
+
+### Step 4: Sync your classmate's changes
+
+After your classmates or other groups push changes, you can pull them down
+to your computer. Command line instructions:
+
+1. Open terminal (`Cmd + Space`, type `Terminal` into spotlight)
+2. `cd ~/Desktop` (or your personal folder)
+4. `cd app` (should already be here from cloning it)
+5. `git pull` to pull the changes
+
+As long as you did not change the same files, you should now have your classmates' new files.
+
+## Resources
+
+Everything you learned in the fall!
+
+https://github.com/codenewhaven/mba-website
