@@ -80,4 +80,7 @@ Responsibilities:
 
 ## Working on the code
 
-This repository contains the three files you need to get started.
+This repository contains the three files you need to get started. Each team
+should only work on one file, as described above.
+
+
