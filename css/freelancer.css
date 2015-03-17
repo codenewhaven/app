@@ -85,6 +85,12 @@ header {
     background: #18bc9c;
 }
 
+.contactheader {
+    background: blue;
+    background-repeat: no-repeat;
+    background-position: 10% 25%;
+}
+
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
